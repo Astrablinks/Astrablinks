@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Astrablinks
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning html,css and javascript
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me Astrablinks1@gmail.com
